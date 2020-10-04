@@ -1,0 +1,11 @@
+{
+    "compile-hero.disable-compile-files-on-did-save-code": false,
+    "liveServer.settings.AdvanceCustomBrowserCmdLine": "",
+    "liveServer.settings.CustomBrowser": "chrome",
+    "liveshare.connectionMode": "relay",
+    "liveshare.joinDebugSessionOption": "Prompt",
+    "liveshare.anonymousGuestApproval": "accept",
+    "liveshare.diagnosticLogging": true,
+    "liveshare.focusBehavior": "prompt",
+    "files.autoSave": "onFocusChange"
+}
